@@ -9,10 +9,6 @@
     <table>
       <tr>
         <td align="center" style="padding:10px 18px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38" /><br/>
-          <b>Figma</b>
-        </td>
-        <td align="center" style="padding:10px 18px;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" /><br/>
           <b>HTML5</b>
         </td>
@@ -41,48 +37,7 @@
 
 ---
 
----
 
-## 💻 **Projetos Front-End**
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/gustavomurai/Aplicativo-Clima" target="_blank">
-        <img src="assets/thumbnail-clima.png" alt="Thumbnail App de Previsão do Tempo" height="200" />
-      </a>
-      <br><small>App de Previsão do Tempo</small><br><small><i>HTML • CSS • JavaScript • PWA</i></small>
-    </td>
-
-  <td align="center">
-      <a href="https://github.com/gustavomurai/gestao-tarefas-oficial" target="_blank">
-        <img src="assets/thumbail-gestao-de-tarefas.png" alt="Thumbnail Gestão de Tarefas (Angular)" height="200" />
-      </a>
-      <br><small>Gestão de Tarefas</small><br><small><i>Angular • TypeScript • SPA</i></small>
-    </td>
-
-  <td align="center">
-      <a href="https://github.com/gustavomurai/crud-tarefas-react" target="_blank">
-        <img src="assets/thumbnail-taskflow.png" alt="Thumbnail CRUD de Tarefas (React)" height="200" />
-      </a>
-      <br><small>CRUD de Tarefas</small><br><small><i>React • JavaScript • Componentização</i></small>
-    </td>
-  </tr>
-</table>
-
----
-
-
-## 📜 **Formação, Certificações & Cursos**
-
-- 🎓 **Análise e Desenvolvimento de Sistemas** – IFSP (2024 – 2026)  
-- 🎓 **Formação UX Design** – Alura (2025)  
-- 🎓 **Google Data Analytics** – Coursera (2025)  
-- 🧭 **Metodologias Ágeis (Scrum e Kanban)** – Udemy  
-- 📊 **SQL Server e Power BI** – Udemy  
-- 📈 **Excel Avançado** – Udemy
-
----
 
 ## 📌 **Onde Me Encontrar**
 
@@ -110,5 +65,4 @@
 
 <p align="center">
   💜 Obrigado por visitar meu perfil! <br>
-  ✨ <b>“Design é onde forma e função se encontram.”</b>
 </p>
