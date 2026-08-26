@@ -41,32 +41,6 @@
 
 ---
 
-
-## 🎨 **Projetos UX/UI**
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI" target="_blank">
-        <img src="assets/coffeeshop.png" alt="Capa do projeto Coffee Shop Gusto" height="200" />
-      </a>
-      <br><small>App de cafeteria</small><br><small><i>UX Research • Design System • Prototipagem</i></small>
-    </td>
-    <td align="center">
-      <a href="https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI" target="_blank">
-        <img src="assets/colorfruit.png" alt="Capa do projeto Color Fruit Game App" height="200" />
-      </a>
-      <br><small>Jogo educativo para crianças</small><br><small><i>UI Design • Acessibilidade • Design Responsivo</i></small>
-    </td>
-    <td align="center">
-      <a href="https://www.behance.net/gallery/235451487/Doativa-UXUI-de-App-Mobile-para-Doacao" target="_blank">
-        <img src="assets/doativa.png" alt="Capa do projeto Doativa UX/UI" height="200" />
-      </a>
-      <br><small>App mobile de doações</small><br><small><i>Design Thinking • UCD • Microinterações</i></small>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 💻 **Projetos Front-End**
@@ -98,30 +72,12 @@
 
 ---
 
-## 📊 **Linguagens mais utilizada**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomurai&layout=compact&theme=radical&cache_seconds=0"/>
-  
-</div>
-
----
-
-## 👤 **Sobre Mim**
-
-- 🎨 UX/UI Designer com experiência em design centrado no usuário e design system.  
-- 🧠 Experiência com análise de dados e dashboards interativos (Power BI, SQL Server).  
-- 💡 Familiaridade com metodologias Design Thinking, UCD, Scrum e Kanban.  
-- 💬 Inglês avançado (B2+).
-
----
 
 ## 📜 **Formação, Certificações & Cursos**
 
 - 🎓 **Análise e Desenvolvimento de Sistemas** – IFSP (2024 – 2026)  
 - 🎓 **Formação UX Design** – Alura (2025)  
 - 🎓 **Google Data Analytics** – Coursera (2025)  
-- 💻 **Figma: Design de Interfaces** – Udemy  
 - 🧭 **Metodologias Ágeis (Scrum e Kanban)** – Udemy  
 - 📊 **SQL Server e Power BI** – Udemy  
 - 📈 **Excel Avançado** – Udemy
